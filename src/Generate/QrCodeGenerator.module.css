@@ -1,0 +1,48 @@
+body{
+    background-color: #afa48037;
+}
+
+.container{
+    padding: 50px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    max-width: 400px;
+    gap: 50px;
+    height: 400px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+h1{
+    margin: 0;
+}
+
+
+.input{
+    width: 60%;
+    margin: 0 auto;
+    padding: 0 10px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ececec;
+}
+
+.generate{
+
+    margin: 0 auto;
+    width: 60%;
+    height: 40px;
+}
+
+.svg{
+    margin: 0 auto;
+    transform: scale(130%);
+}
+
+.gcont{
+    display: flex;
+    flex-direction: column;
+}
